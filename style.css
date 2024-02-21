@@ -1,0 +1,91 @@
+h1 {
+    text-align: center;
+}
+
+.divya {
+    color: white;
+    font-family: serif;
+    font-size: 20px;
+
+}
+
+.diya input {
+    border-radius: 0px 5px 0px 5px;
+    width: 277px;
+    height: 25px;
+}
+
+.dia p {
+    color: white;
+    text-align: center;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    border-radius: 0px 5px 0px 5px;
+    width: 277px;
+    height: 25px;
+
+}
+
+.d p {
+    color: white;
+
+}
+
+.a {
+    color: white;
+    margin-bottom: 180px;
+}
+
+.d img {
+    margin-top: 10px;
+    width: 28%;
+    height: 30px;
+
+}
+
+.d span {
+    color: white;
+}
+
+.z img {
+    color: white;
+    margin-top: 10px;
+    width: 5%;
+    height: 30px;
+    margin-left: 1px;
+
+}
+
+.z span {
+    color: white;
+    text-align: center;
+    margin-right: 2%;
+}
+
+.b {
+    text-align: center;
+    margin-block-start: auto;
+}
+
+.b img {
+    height: 109px;
+
+}
+
+.x p {
+    color: white;
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.cc {
+
+
+    border: 1px solid white;
+    width: 30%;
+    background-image: linear-gradient(-45deg, blue, orange, rgb(210, 7, 132), purple, red);
+
+}
